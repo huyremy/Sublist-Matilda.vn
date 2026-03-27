@@ -18,5 +18,8 @@ List subdomain tools @ Matilda.vn
 16. https://blog.matilda.vn ( Blog - Những bài viết hay )
 17. https://search.matilda.vn ( Search Engine Monava )
 18. https://meta.matilda.vn ( Nhúng 2 file ảnh vào 1 file ảnh (beta) )
+19. https://xs.matilda.vn ( AI Dự đoán xổ số miền Bắc )
+20. https://sports.matilda.vn (LiveScore thể thao các môn)
+21. https://odd.matilda.vn ( Kèo độ trước trận tiêu chuẩn: Bóng Đá) 
 -----
 # Power by HuyRemy - Since 2022 - https://matilda.vn
