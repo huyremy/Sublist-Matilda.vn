@@ -17,7 +17,7 @@ List subdomain tools @ Matilda.vn
 15. https://sandbox.matilda.vn ( PHP Mini Sandbox, công cụ lập trình PHP và lưu trữ thẳng vào Github )
 16. https://blog.matilda.vn ( Blog - Những bài viết hay )
 17. https://search.matilda.vn ( Search Engine Monava )
-18. https://meta.matilda.vn ( Nhúng 2 file ảnh vào 1 file ảnh (beta) )
+18. https://meta.matilda.vn ( Nhúng 2 file ảnh vào 1 file ảnh (công nghệ siêu dữ liệu bản beta) )
 19. https://xs.matilda.vn ( AI Dự đoán xổ số miền Bắc )
 20. https://sports.matilda.vn (LiveScore thể thao các môn)
 21. https://computer.matilda.vn ( Shell Linux Cloud )
