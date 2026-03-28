@@ -22,4 +22,7 @@ List subdomain tools @ Matilda.vn
 20. https://sports.matilda.vn (LiveScore thể thao các môn)
 21. https://computer.matilda.vn ( Shell Linux Cloud )
 -----
+Một chút về cơ sở hạ tầng Hệ thống Matilda.VN:
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ae252fbf-2916-473c-b942-440f8d4ebfac" />
+
 # Power by HuyRemy - Since 2022 - https://matilda.vn
