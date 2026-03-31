@@ -25,8 +25,11 @@ List subdomain tools @ Matilda.vn
 Một chút về cơ sở hạ tầng Hệ thống Matilda.VN:
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ae252fbf-2916-473c-b942-440f8d4ebfac" />
 Gemini dọn dẹp lại:
+---
 <img width="842" height="1264" alt="image" src="https://github.com/user-attachments/assets/31301279-a003-422b-be6d-5d01a847c848" />
+---
 Grok dọn dẹp lại:
+---
 <img width="832" height="1248" alt="image" src="https://github.com/user-attachments/assets/7b3cc9b6-807b-419f-8db7-a2afba972889" />
 
 
