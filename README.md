@@ -22,7 +22,7 @@ List subdomain tools @ https://matilda.vn
 20. https://sports.matilda.vn (LiveScore thể thao các môn)
 21. https://satteline.matilda.vn (Map Wifi Free Updated)
 22. https://dl.matilda.vn (Download video, clip ở tất cả các mạng xã hội Facebook, X, Tiktok...1000++ tất cả các kênh trên thế giới)
-23. Matilda Mini Browser (Xem youtube không quảng cáo : https://github.com/huyremy/Matilda-Mini-Browser)
+23. Matilda Mini Browser (Xem youtube không quảng cáo : https://github.com/huyremy/Matilda-Mini-Browser )
 -----
 Một chút về cơ sở hạ tầng Hệ thống Matilda.VN:
 
